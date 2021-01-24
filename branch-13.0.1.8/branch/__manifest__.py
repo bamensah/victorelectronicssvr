@@ -1,7 +1,7 @@
 # Part of BrowseInfo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Multiple Branch Unit Operation Setup for All Applications Odoo',
+    'name': 'New Multiple Branch Unit Operation Setup for All Applications Odoo',
     'version': '13.0.1.8',
     'category': 'Sales',
     'summary': 'Multiple Branch Management Multi Branch app Multiple Unit multiple Operating unit sales branch Sales Purchase branch Invoicing branch billing Voucher branch warehouse branch Payment branch Accounting Reports for single company Multi Branches multi company',
