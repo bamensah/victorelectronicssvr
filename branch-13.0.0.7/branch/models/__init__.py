@@ -1,7 +1,6 @@
 # Part of BrowseInfo. See LICENSE file for full copyright and licensing details.
 
 from . import branch
-from . import pos
 from . import inherited_res_users
 from . import inherited_sale_order
 from . import inherited_stock_move
